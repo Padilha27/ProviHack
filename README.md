@@ -49,7 +49,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 #### 🎲 Iniciando o projeto rodando a aplicação web (Frontend)
 
+``
 Escrever o passo a passo da aplicação aqui 
+``
 ---
 
 ## 🛠 Tecnologias
