@@ -49,14 +49,20 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 #### 🎲 Iniciando o projeto rodando a aplicação web (Frontend)
 
-``
-Escrever o passo a passo da aplicação aqui 
-``
+```bash
+
+# Clone este repositório em sua máquina
+$ git clone https:linkdogithubaqui.git
+
+
+```
+
 ---
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
+
 
 
 
