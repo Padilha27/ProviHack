@@ -1,0 +1,139 @@
+body {
+    font-family: sans-serif;
+    color:#0B3C5D;
+}
+#inicio{
+    border-radius:10px;
+}
+h1, h2, h3 {
+    font-family:'Times New Roman', sans-serif;
+    color:#0B3C5D;
+}
+.botão {
+    color:skyblue;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color:#0B3C5D;
+    font-size: .9em;
+    border-radius: 3px;
+}
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:skyblue;
+}
+nav a {
+    text-decoration: none;
+    color:#0B3C5D;
+    font-weight: 800;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+nav ul li {
+    display: inline-block;
+    padding: 10 px 0;
+    width: 100%;
+    text-decoration: none;
+    color:#0B3C5D;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image:url("https://cdn.pixabay.com/photo/2015/09/25/19/35/phone-958066__340.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+}
+header h1 {
+    color: #0B3C5D;
+}
+header p {
+    margin-bottom: 3em;
+    font-size: xx-large;
+    text-align: flex-end;
+}
+#sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px 10px 20px 20px;
+    background-color:skyblue;
+    color: #0B3C5D;
+}
+#sobre h2 {
+    color: #0B3C5D;
+}
+#sobre p {
+    margin-bottom: 2.5em;
+    max-width: 1000px;
+    font-size: xx-large;
+}
+#sobre .botão{
+    background-color:#0B3C5D;
+    color:skyblue;
+}
+#contato {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px
+}
+#contato img{
+    width: 15px;
+    height: 15px;
+}
+#contato h4 {
+    color: #0B3C5D;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: skyblue;
+    color: #0B3C5D;
+}
+footer a {
+    text-decoration: none;
+    color: #0B3C5D;
+}
+@media screen and (min-width: 768px) {
+    nav {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    nav ul {
+        flex-direction: row;
+        width: 70%;
+    }
+    header {
+        height: 600px;
+        height: 60vh;
+        justify-content: center;
+        min-height: 250px;
+    }
+    #ComoFunciona {
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    #ComoFunciona h2 {
+        text-align: center;
+        width: 100%;
+    }
+    
+
+}
