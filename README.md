@@ -52,7 +52,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
 # Clone este repositório em sua máquina
-$ git clone https:linkdogithubaqui.git
+$ git clone https://github.com/Padilha27/ProviHack
 
 
 ```
