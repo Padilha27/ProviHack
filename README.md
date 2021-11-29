@@ -71,8 +71,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autores
 
-Feito com 💜 por  [Entre em contato!](linkedin aqui)
+Feito com 💜 por:
+[Andrea Babilonia : UX/UI Designer](https://www.linkedin.com/in/babiloniandrea/)
+[Bianca Padilha: Dev. Fullstack](https://www.linkedin.com/in/poesia-e-vida-23123620a/)
+[Dionatas Lazzari: Dev. Fullstack](https://www.linkedin.com/in/dionatas-lazzari-dev/)
+[Eloísa Schwertner: UX Designer](https://www.linkedin.com/in/eloisa-schwertner/)
+[Luany Souza: Dev. Front-end](https://www.linkedin.com/in/luanyss/)
+[Fabio Neres: Produto](https://www.linkedin.com/in/f%C3%A1bioneres/)
 
 [![Linkedin Badge](foto do linkedin)](link da sua pág no linkedin) 
+
+
+
+
+
+
+
 
 ---
