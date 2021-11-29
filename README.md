@@ -6,7 +6,7 @@
 	🚧  Em andamento 🚧
 </h4>
 
-:robot: TechZap 🚀
+:robot: TechZap 🚀 - Veja o [Artigo](https://medium.com/p/5afd2588ecc4/edit).
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
@@ -30,6 +30,8 @@ O projeto foi desenvolvido durante o ProviHack e busca atender a necessidade de 
 
 A página Web é a "porta de entrada" da aplicação. Nela estão as informações principais da solução, seu propósito e funcionamento. 
 O objetivo dessa página é filtar os públicos que a acessam e encaminhar para o Chatbot, segundo o perfil de cada usuário. Os tipos de público são 3: alunos, professores e familiares.
+
+[Figma da Página](https://www.figma.com/file/WvHwsU1t4RGpiJK0vcQK0C/TechZAP?node-id=104%3A4)
 
 
 ## :robot: Chatbot (API)
